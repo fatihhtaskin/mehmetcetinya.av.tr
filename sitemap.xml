@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https:/mehmetcetinkaya.av.tr</loc>
+	<lastmod>2024-03-31</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https:/mehmetcetinkaya.av.tr/img/icon_business.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https:/mehmetcetinkaya.av.tr/img/icon_administrative.svg</image:loc>
+	<image:title>icon_administrative</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https:/mehmetcetinkaya.av.tr/img/icon_criminal.svg</image:loc>
+	<image:title>icon_criminal</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https:/mehmetcetinkaya.av.tr/img/icon_company.svg</image:loc>
+	<image:title>icon_company</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https:/mehmetcetinkaya.av.tr/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https:/mehmetcetinkaya.av.tr/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https:/mehmetcetinkaya.av.tr/contact.html</loc>
+	<lastmod>2024-03-31</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https:/mehmetcetinkaya.av.tr/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https:/mehmetcetinkaya.av.tr/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https:/mehmetcetinkaya.av.tr/about.html</loc>
+	<lastmod>2024-03-31</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https:/mehmetcetinkaya.av.tr/img/placeholder-image.png</image:loc>
+	<image:title>team 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https:/mehmetcetinkaya.av.tr/img/placeholder-image.webp</image:loc>
+	<image:title>team 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https:/mehmetcetinkaya.av.tr/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https:/mehmetcetinkaya.av.tr/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
